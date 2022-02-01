@@ -41,7 +41,7 @@
 
 </details>
 
-[website]: https://rashmiranjandasresume.uwu.ai/
+[website]: https://https://rashmiranjandasresume.carrd.co/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/ranjandass/
