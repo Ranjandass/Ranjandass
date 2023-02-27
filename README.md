@@ -2,10 +2,10 @@
 
 ## I'm a Data Scientist!
 
-- 🔭 I’m a student at Dublin City University
+- 🔭 I’m a Data Analytics Consultant
 - 🌱 I’m currently learning Deep learning
-- 👯 I’m looking for a full time opportunity
-- 🥅 2020 Goals: Make the most of Lockdown to learn new skills
+- 👯 I’m looking for open source project to contribute to
+- 🥅 2023 Goals: Make the most of this year to learn Data engineering skills
 
 ### Connect with me:
 
